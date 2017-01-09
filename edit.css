@@ -1,0 +1,18 @@
+h1 {
+     color: cyan;
+     font-size: 16px;
+     text-align: center;
+}
+
+.para1 {
+     color: red;
+     font-size: 12px;
+     text-align: right;
+}
+
+.para2 {
+     color: orange;
+     font-size: 12px;
+     width: 360px;
+     margin: 0 auto;
+}
